@@ -8,7 +8,8 @@
 ![Cancel Add](https://user-images.githubusercontent.com/117403353/205206767-086e0a63-a5e1-40ef-9df8-685335223567.png)
 
 # Click on Save
-![Screenshot 2022-12-02 065847](https://user-images.githubusercontent.com/117403353/205225595-a1589b49-7ce3-4a71-91f8-1b2f1287655d.png)
+![image_2022-12-02_070449692](https://user-images.githubusercontent.com/117403353/205226159-28e1af32-8689-4d9e-8102-3e409085ed8c.png)
+
 
 # Click On Open Question
 ![Open question ](https://user-images.githubusercontent.com/117403353/205206902-f0f4cff5-28f9-41e2-a9b1-3a0c650fc5b1.png)
@@ -16,7 +17,8 @@
 # Save it
 ![dboq](https://user-images.githubusercontent.com/117403353/205206972-dd1f641e-f242-4de2-b669-b17853e36c3d.png)
 
-![click qur save open question](https://user-images.githubusercontent.com/117403353/205206974-39e5bd94-6c83-4ac9-abd6-981992cda335.png)
+![Save 1](https://user-images.githubusercontent.com/117403353/205226459-47cc0ac6-47b6-41e9-b7f9-3f5b014881e4.png)
+
 
 # Click on Choice question
 
@@ -26,7 +28,8 @@
 
 ![dbcq](https://user-images.githubusercontent.com/117403353/205207114-f00ed748-b87c-4637-b266-f8f847200bf8.png)
 
-![save CQ](https://user-images.githubusercontent.com/117403353/205207116-fa6a236b-2903-40a9-bd0c-f9329f19a8ba.png)
+![s2](https://user-images.githubusercontent.com/117403353/205226491-8f933bae-829c-4c43-a104-814bdccdbac0.png)
+
 
 # Click on Update 
 ![click update](https://user-images.githubusercontent.com/117403353/205207180-0be48197-5024-4d09-93cf-7776bfae7da5.png)
